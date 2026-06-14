@@ -7,6 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            Console.WriteLine("1st branch");
             Console.WriteLine("2nd branch");
             Add add = new Add();
             add.Addition(4, 5);
